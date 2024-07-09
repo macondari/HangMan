@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-
+//Edited 2024-07-08
 class Program
 {
     // Function to print hangman based on wrong guesses
@@ -93,7 +93,7 @@ class Program
             Console.Write("\nGuess a letter: ");
             char guessLetter = Char.ToUpper(Console.ReadLine()[0]); // Convert input to uppercase
 
-            // Check if letter has already been guessed
+            // Check if letter has already been guessed. 
             if (guessed.Contains(guessLetter))
             {
                 Console.WriteLine("You have already guessed '{0}'. Guess a new letter.", guessLetter);
