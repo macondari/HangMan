@@ -12,3 +12,4 @@ C:\Users\micha\Desktop\GitHub\HangMan\HangMan\obj\Debug\net8.0\refint\HangMan.dl
 C:\Users\micha\Desktop\GitHub\HangMan\HangMan\obj\Debug\net8.0\HangMan.pdb
 C:\Users\micha\Desktop\GitHub\HangMan\HangMan\obj\Debug\net8.0\HangMan.genruntimeconfig.cache
 C:\Users\micha\Desktop\GitHub\HangMan\HangMan\obj\Debug\net8.0\ref\HangMan.dll
+C:\Users\micha\Desktop\GitHub\HangMan\HangMan\obj\Debug\net8.0\HangMan.sourcelink.json
