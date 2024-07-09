@@ -1,0 +1,14 @@
+C:\Users\micha\Desktop\GitHub\HangMan\HangMan\bin\Debug\net8.0\HangMan.exe
+C:\Users\micha\Desktop\GitHub\HangMan\HangMan\bin\Debug\net8.0\HangMan.deps.json
+C:\Users\micha\Desktop\GitHub\HangMan\HangMan\bin\Debug\net8.0\HangMan.runtimeconfig.json
+C:\Users\micha\Desktop\GitHub\HangMan\HangMan\bin\Debug\net8.0\HangMan.dll
+C:\Users\micha\Desktop\GitHub\HangMan\HangMan\bin\Debug\net8.0\HangMan.pdb
+C:\Users\micha\Desktop\GitHub\HangMan\HangMan\obj\Debug\net8.0\HangMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\GitHub\HangMan\HangMan\obj\Debug\net8.0\HangMan.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\GitHub\HangMan\HangMan\obj\Debug\net8.0\HangMan.AssemblyInfo.cs
+C:\Users\micha\Desktop\GitHub\HangMan\HangMan\obj\Debug\net8.0\HangMan.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\GitHub\HangMan\HangMan\obj\Debug\net8.0\HangMan.dll
+C:\Users\micha\Desktop\GitHub\HangMan\HangMan\obj\Debug\net8.0\refint\HangMan.dll
+C:\Users\micha\Desktop\GitHub\HangMan\HangMan\obj\Debug\net8.0\HangMan.pdb
+C:\Users\micha\Desktop\GitHub\HangMan\HangMan\obj\Debug\net8.0\HangMan.genruntimeconfig.cache
+C:\Users\micha\Desktop\GitHub\HangMan\HangMan\obj\Debug\net8.0\ref\HangMan.dll
